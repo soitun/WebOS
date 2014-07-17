@@ -1,0 +1,48 @@
+body	{
+	color:#000; background-color: #eee;
+	font-family: "Trebuchet MS", "Geneva CE", lucida, sans-serif;
+	font-weight: normal; font-size:84%; line-height: 1.6em;
+	text-align:center; padding:1em 0; margin:0;
+	}
+
+#page	{
+	width:100%; padding:1em; min-width:640px; max-width:70em;
+	margin:0 auto; text-align:justify; background:#fff;
+	}
+
+#header	{
+	background: #f60; padding:1em;
+	}
+
+#lcoll	{
+	background: #99f; padding:1em; width:160px; float:left; margin-right:1em;
+	}
+
+#rcoll	{
+	background: #ccf; padding:1em; width:160px; float:right; margin-left:1em;
+	}
+
+#footer	{
+	background: #fc9; padding:1em; clear:both;
+	}
+
+p	{
+	background: #fc9;
+	}
+
+img	{
+	border:none; margin-left:1em; float:right;
+	}
+
+.artic	{
+	background: #fff; border-bottom:1px dotted #f60; padding:1em 0;
+	margin:0 1em;
+	}
+.rima	{
+	border-left:1px dotted #f60; border-bottom:1px dotted #f60;
+	padding:0 0 0 1em; margin:0 0 0 1em; float:right;
+	}
+.lima	{
+	border-right:1px dotted #f60; border-bottom:1px dotted #f60;
+	padding:0 1em 0 0; margin:0 1em 0 0; float:left;
+	}

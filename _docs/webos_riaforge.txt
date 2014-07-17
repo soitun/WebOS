@@ -1,0 +1,37 @@
+The availabe file above is our WebOS Version 1.25 RC 1.4: ensure that when you're downloading, the file name initally is '_webos_V125_rc14.zip'. This is a Fully-Functional System.
+
+NEW & ADDITIONAL FEATURES:
+For a List of new features view our current forum:
+
+http://webos.riaforge.org/forums/messages.cfm?threadid=D04599C2-0691-2C59-486569B3AE1C1BAA
+
+
+DESCRIPTION:
+WebOS was developed through the neccessity of an easy-to-use, easy-to-edit, install and administrate Content Management Solution, written in ColdFusion.
+
+The Company I was working for had an aging 'Legacy'-based CMS, which at it's best was bloated, and
+very difficult to install, update and modify.
+
+WebOS solves all of the tediousness and difficulties in running and administrating a Dynamic Website.
+
+I built WebOS with a modular framework in mind, making it easy to Enhance Current Features or Add New Ones.
+
+WebOS uses a simplified Template System so you can easily change the layout and the look of your website easily. Currently, the development project comes with 2 Templates...
+
+With the added help of users here on riaforge, I've been able to tweak and minimize the amout of 'glitches and bugs' in my WebOS application. For those who've assisted me in this endeavor, Thank you very very much.
+
+MAJOR FRONT-END FEATURES:
+
+WebOS comes 'out-of-the-box' (or as i like to say straight-from-the-disk) with a wide array of front-end modules Such as:
+
+Installation Wizard, Google Analytics, Article Manager, Banner Manager, Blog, BreadCrumb Navigation, Chat System, Did-you-Know Module, Customizable Contact Form, Links Directory, 
+Meta Tag Generator, News Manager, Newsletters, Page Editor, PodCast Library, Polls & Surveys, Mortgage Rates Ticker, RSS Feeds, Search Engine Friendly URLS, SiteMap, Site Search, Spotlights Manager, Tell-a-Friend, User Profiles...
+
+MAJOR ADMINISTRATIVE FEATURES:
+WebOS has quite a number of Administrative Features, including but not limited to:
+Alexa and Google Page Rank, Module Installer, Dynamic Form Builder, StyleSheet Editor, Interface to run SQL Queries (or patches), Dynamic Template Switching, Site Map Adminsitration and Automatic
+Generation of XML Sitemap, RSS Feed Administration and Automatic RSS XML file creation, Administrative User Privilages and Administration, User Profile Administration, Online Inquiry Reply Engine, and more...  
+
+FOR MORE FEATURES/MODULES:
+Visit our Feature Requests Forum:
+http://webos.riaforge.org/forums/threads.cfm?forumid=DC8572EA-9A76-E54E-A460198BBFB75381

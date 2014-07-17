@@ -1,0 +1,40 @@
+To Install WEBOS, begin with creating a Datasource in your Coldfusion Admin. 
+Call it what ever you like, however we recommend calling it WEBOS. Ensure that it is a Microsoft SQL Server or OBDC datasource.
+
+Once you have completed creating your datasource, open the file:
+functions/site_config.cfm
+
+At the Very Top of the file you will see:
+<!---\\ This Variable is set from the Installer //--->
+<cfset datasrc = "">
+
+Ensure that in your file these lines look similiar to:
+<!---\\ This Variable is set from the Installer //--->
+<cfset datasrc = "YOURDSN">
+
+Save this file and upload it to your server.
+
+After that has been completed, open your SQL Server Management Studio, create your database, and either import the files:
+webos_tables.sql (Import this one first!!! Very Very Important)
+webos_data.sql 
+
+Or run two new queries, loading the webos_tables.sql file FIRST!
+
+NOTE: RUN THE WEBOS_TABLES.SQL FILE FIRST. 
+This file contains the table schema for webos.
+
+Open your webbrowser and and point it to:
+http://yourserver.com/
+You should be seeing your Webos Installation.
+
+You Aren't going to See much, as the site needs to be configured and modules initialized.
+To do this:
+
+To Login to the Adminsitration Section and configure your website:
+http://yourserver.com/admin/
+Username: admin
+Password: master
+
+If you need help, email me jchharvey@gmail.com
+
+Thank you for using WebOS!
