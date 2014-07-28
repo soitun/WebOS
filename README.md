@@ -1,5 +1,5 @@
 ![alt tag](https://raw.githubusercontent.com/webdevsourcerer/WebOS/master/templates/Default/assets/web_os.png)
-WebOS - v.1.3.0
+v.1.3.0
 =====
 
 WebOS was developed because of the need for an easy to edit, install and administrate content management system in ColdFusion. The Company I was working for had an aging 'Legacy'-based CMS, which was at the best, difficult if not tedious to install, update and modify.
