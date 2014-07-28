@@ -1,3 +1,4 @@
+![alt tag](https://raw.githubusercontent.com/webdevsourcerer/WebOS/master/templates/Default/assets/web_os.png)
 WebOS - v.1.3.0
 =====
 
